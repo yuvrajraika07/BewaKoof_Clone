@@ -11,12 +11,8 @@ As a part of Masai full stack web development course, I’ve been learning here 
 
 ## Authors
 
-- [Nitish Kumar](https://github.com/Nitish8800)
-- [Prashant Bhatiya](https://github.com/bhatiyacode)
-- [Pranjal](https://github.com/lordstark-p)
-- [washim raza](https://github.com/washimraza1234)
-- [Tarun Kumar Bhardwaj](https://github.com/washimraza1234)
-- [Pijush](https://github.com/el-pijush)
+- [Yuvraj Raika ](https://github.com/yuvrajraika07)
+
 
 ## Problem statement:
 This Website is for Shopping a new Products Platform For Men’s and Women’s.
