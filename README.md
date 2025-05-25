@@ -1,11 +1,11 @@
 
 # Website Link 
 
-
+https://yuvrajraika07.github.io/BewaKoof_Clone/
 
 # MASAI PROJECT Clone The BewKoof.Com
 
-Blog-Link :
+Blog-Link : https://yuvrajraika07.github.io/BewaKoof_Clone/
 
 As a part of Masai full stack web development course, I’ve been learning here a lot of things building a brand and person a of myself.
 
